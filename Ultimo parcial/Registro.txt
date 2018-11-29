@@ -1,0 +1,4 @@
+Registro	fibonacci	7	3
+Registro	taylor	6	179.8
+Registro	taylor	6	179.8
+Registro	fibonacci	9	5
